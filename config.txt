@@ -1,0 +1,9 @@
+X= 10
+Y= 10
+Z= 3
+Speed= 1.5
+
+ALWAYS PUT A SPACE AFTER '=' and Value of X,Y,Z
+Speed > 1 Video speed fast
+Speed < 1 Video speed slow
+Speed = 1 Video Speed Normal  
